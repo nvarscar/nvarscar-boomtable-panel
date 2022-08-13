@@ -1,7 +1,7 @@
 {
-  "name": "yesoreyeram-boomtable-panel",
+  "name": "nvarscar-boomtable-panel",
   "version": "1.5.0-alpha.3",
-  "description": "Boom table panel for Graphite, InfluxDB, Prometheus",
+  "description": "A fork of a Boom table panel for Graphite, InfluxDB, Prometheus",
   "main": "dist/module.js",
   "scripts": {
     "build": "grunt",
